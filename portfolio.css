@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(18, 2, 43);
+    color: white;
+    padding: 50px;
+}
+.menu{
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+}
+.menu li a{
+    color: white;
+    text-decoration: none;
+}
+.sourav{
+    color: yellowgreen;
+    font-size: 30px;
+}
+
+.Hero{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Hero-sec{
+    background-color: #06002C ;
+    color: white;
+    padding: 70px;
+}
+.Hero-title{
+    font-size: 80px;
+    color: white;
+}
+.Hero-title span{
+    color: #75B94c;
+}
+.Hero-para{
+    font-size: 40px;
+}
+.Hero-para span{
+    color: #FFC300;
+}
+.Hero-btn{
+    background-color:#FFC300;
+    height: 100px;
+    width: 300px;
+    font-size: 25px;
+    margin-top: 50px; 
+    border-radius: 30px;
+    border:none;
+}
+.Hero-img{
+    border-radius: 50%;
+    border: 5px solid rgb(159, 5, 5);
+
+}
+
+.sourav{
+    display: flex;
+}
+.Hero-icon{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    font-size: 25px;
+    padding-top: 100px;
+}
+.ME{
+    display: flex;
+    background-color: white;
+    color: #1D154A;
+    justify-content: space-between;
+    align-items: center;
+    gap:50px;
+    padding: 50px;
+}
+
+.ME-img{
+    border-radius: 50%;
+    border: 5px solid #33ecb4;
+    width: 450px;
+    height: 400px;
+    
+}
+
+.ME2{
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.ME-para{
+    font-size: 2rem;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.ME-para span{
+    color: red;
+    font-weight: 700;
+}
+.sec-h{
+    background-color: #06002c;
+    color: white;
+    padding: 50px;
+}
+.para{
+    font-size :25px;
+    padding: 30px;
+}
+
+.sec-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    font-size: 30px;
+    
+}
+
+.img-1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #75F94C;
+    
+}
+
+.img-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #75F94C;
+}
+
+.img-3{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #75F94C;
+}
+
+.skill-h{
+    color: #75F94C;
+    font-size: 2rem;
+     
+}
+
+.color-img-1{
+    color: #FFC830;
+    padding-top: 30px;
+}
+
+.color-img-2{
+    color: #FFC830;
+    padding-top: 30px;
+}
+
+.color-img-3{
+    color: #FFC830;
+    padding-top: 30px;
+}
+.EducationExperience{
+    padding: 30px 5%;
+}
+.EducationExperience h2{
+    font-size: 5rem;
+}
+.school{
+    font-size: 2rem;
+    padding-top: 80px;
+}
+.Body1{
+    display: flex;
+    justify-content: space-between;
+}
+.college{
+    font-size: 2rem;
+    padding-top: 80px;
+}
+.Body2{
+display: flex;
+    justify-content: space-between;
+}
+.con{
+    background-color:#06002C;
+    padding-left: 50px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+.co{
+    font-size: 20px;
+    color: #75F94C;
+    padding-bottom: 20px;
+}
+.know-me{
+    color:white;
+}
+.right{
+    color: white;
+    margin-top: 70px;
+}
+.tele{
+    padding-bottom: 20px;
+    font-size: 2rem;
+}
+.fill{
+    padding-bottom: 20px;
+     font-size: 2rem;
+}
+.asia{
+    padding-bottom: 20px;
+     font-size: 2rem;
+}
+.location{
+    padding-bottom: 20px;
+     font-size: 2rem;
+}
+.right{
+    display: flex;
+    justify-content: center;
+}
